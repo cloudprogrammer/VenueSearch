@@ -1,0 +1,6 @@
+framework module Pods_Venue_Search {
+  umbrella header "Pods-Venue Search-umbrella.h"
+
+  export *
+  module * { export * }
+}
